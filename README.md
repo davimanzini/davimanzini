@@ -24,4 +24,8 @@ I am really passionate about programming, math, sports, reading and games. I loo
 ---
 [![](https://visitcount.itsvg.in/api?id=davimanzini&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<div align="center">
+  <p><b>Visitors Count</b></p>
+  <img src="https://profile-counter.glitch.me/davimanzini/count.svg" />
+</div>
