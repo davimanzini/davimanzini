@@ -10,6 +10,8 @@ I am really passionate about programming, math, sports, reading and games. I loo
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=davimanzini&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=davimanzini&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=davimanzini&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=davimanzini&theme=radical&no-frame=true&no-bg=false&margin-w=4)
