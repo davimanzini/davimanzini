@@ -22,8 +22,3 @@ I am really passionate about programming, math, sports, reading and games. I loo
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=davimanzini&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-
-<div align="center">
-  <p><b>Visitors Count</b></p>
-  <img src="https://profile-counter.glitch.me/davimanzini/count.svg" />
-</div>
